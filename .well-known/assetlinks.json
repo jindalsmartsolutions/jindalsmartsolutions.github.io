@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ahome.jindalsmartsolutions.com",
+        "sha256_cert_fingerprints":
+          ["F8:39:8B:AD:7B:3C:C7:B2:C9:65:BF:BD:E5:20:D8:C2:86:AF:84:2F:E8:B6:12:35:58:0F:B0:19:C1:00:13:48"]
+      }
+    }
+  ]
